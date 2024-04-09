@@ -22,4 +22,4 @@ Just a recommendation system that recommends the movies according to the like of
 	4. ``streamlit run app.py``
 
 
-![Image](screenshot.png)
+![Image](Screenshot.png)
